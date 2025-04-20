@@ -1,0 +1,26 @@
+{
+    "name": "SUMOPEPE Token List",
+    "logoURI": "https://raw.githubusercontent.com/iamhector/sumopepe-token-list/main/assets/mainnet/7frZ5kVVAj11GuqLEjdu6z97vmJ9wTMGcszKMeV5pump.png",
+    "tags": {
+      "meme": { "name": "Meme", "description": "Meme coins" },
+      "community": { "name": "Community", "description": "Community-driven" },
+      "solana": { "name": "Solana", "description": "Solana ecosystem token" }
+    },
+    "tokens": [
+      {
+        "chainId": 101,
+        "address": "7frZ5kVVAj11GuqLEjdu6z97vmJ9wTMGcszKMeV5pump",
+        "symbol": "SUMOPEPE",
+        "name": "SUMOPEPE",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/iamhector/sumopepe-token-list/main/assets/mainnet/7frZ5kVVAj11GuqLEjdu6z97vmJ9wTMGcszKMeV5pump.png",
+        "tags": ["meme", "community", "solana"],
+        "extensions": {
+          "website": "https://sumopepe.world",
+          "twitter": "https://x.com/SOLANA_SUMOPEPE",
+          "telegram": "https://t.me/sumopepe"
+        }
+      }
+    ]
+  }
+  
